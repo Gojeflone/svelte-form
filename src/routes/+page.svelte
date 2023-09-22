@@ -1,6 +1,6 @@
 <h1>Welcome to SvelteKit</h1>
 <p>Visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to read the documentation</p>
-
+<p>test</p>
 <form name="netlify-form-example" method="POST" data-netlify="true">
     <input type="hidden" name="form-name" value="netlify-form-example" />
     <label for="name">Name</label>
